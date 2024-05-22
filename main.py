@@ -13,7 +13,7 @@ from tglogging import TelegramLogHandler
 # Config 
 class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7106816619:AAE0DCygG3XcCh7P8OKIUyTmZKfHJ_gKeLg")
-    API_ID = int(os.environ.get("API_ID", "8006372"))
+    API_ID = int(os.environ.get("API_ID",  8006372))
     API_HASH = os.environ.get("API_HASH", "f878ef2fd1044167b7d8ab23320e1eda")
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     SESSIONS = "./SESSIONS"
