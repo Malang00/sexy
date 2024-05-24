@@ -1,7 +1,7 @@
-pyrogram
+pyrogram==2.0.130
 tgcrypto
 requests
-pyromod
+pyromod==1.5
 aiohttp
 aiofiles
 asyncio
