@@ -73,6 +73,9 @@ class get_link_atributes:
         elif link.startswith(("https://covod.testbook.com/")):
             url = ParseLink.classplus_link(link=link)
             return url
+            elif link.startswith(("https://media-cdn.classplusapp.com/")):
+            url = ParseLink.classplus_link(link=link)
+            return url
         elif link.startswith(("https://tencdn.classplusapp.com")):
             url = ParseLink.classplus_link(link=link)
             return url
