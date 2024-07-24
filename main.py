@@ -50,7 +50,7 @@ LOGGER.info("live log streaming to telegram.")
 
 # Store
 class Store(object):
-    CPTOKEN = "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTE4NDkzODc1LCJvcmdJZCI6MTMwMjQsInR5cGUiOjEsIm1vYmlsZSI6IjkxOTU0OTkxOTE1NSIsIm5hbWUiOiJwcml5YW5zaHUiLCJlbWFpbCI6ImlwcnlhbnNodUBnbWFpbC5jb20iLCJpc0ludGVybmF0aW9uYWwiOjAsImRlZmF1bHRMYW5ndWFnZSI6IkVOIiwiY291bnRyeUNvZGUiOiJJTiIsImNvdW50cnlJU08iOiI5MSIsInRpbWV6b25lIjoiR01UKzU6MzAiLCJpc0RpeSI6dHJ1ZSwib3JnQ29kZSI6Im5iZ2NiIiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjY0ZjhkMDk2NDNjYWViNzE1ODY3MDQxM2U0ZGFhYzliIiwiaWF0IjoxNzIwODM5NDU2LCJleHAiOjE3MjE0NDQyNTZ9.v68pU0dLmqI12UdTeMokvnOBvea_L0W_6dqDYZl1mrml8MtEBOGN2aXwqm5eGTX-"
+    CPTOKEN = "eyJjb3Vyc2VJZCI6IjQ1NjY4NyIsInR1dG9ySWQiOm51bGwsIm9yZ0lkIjo0ODA2MTksImNhdGVnb3J5SWQiOm51bGx9"
     SPROUT_URL = "https://discuss.oliveboard.in/"
     ADDA_TOKEN = ""
     THUMB_URL = "https://telegra.ph/file/fd7a1e0e94a1f3e7d8b3a.jpg"
