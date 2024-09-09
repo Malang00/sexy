@@ -7,7 +7,6 @@ aiofiles
 asyncio
 humanize
 wget
-yt-dlp
 hachoir
 bs4
 httpx[http2]
