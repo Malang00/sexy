@@ -15,7 +15,7 @@ import base64
 import re
 import json
 from bs4 import BeautifulSoup
-from yt_dlp import YoutubeDL as ytdl
+#from yt_dlp import YoutubeDL as ytdl
 
 
 class ParseLink(object):
